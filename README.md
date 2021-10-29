@@ -1,6 +1,6 @@
 # Next Level Week Heat
 
-![Projeto React.js](https://github.com/AlarmedEwe/nlw-heat/screenshots/Web-2.png)
+![Projeto React.js](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Web-2.png)
 
 Na semana do dia 17 ao dia 25 estive fazendo a **NLW (Next Level Week) Heat** da [Rocketseat](https://www.rocketseat.com.br), um webinário com foco no desenvolvimento do ambiente `JavaScript` de uma das maiores plataformas de ensino de programação que conheço.
 
@@ -43,9 +43,9 @@ Já para executar o projeto em `Elixir`, você precisará instalar na sua máqui
 Com essas ferramentas, você precisará instalar as dependências do projeto através do comando `mix deps.get` executado dentro do repositório do projeto e, finalmente, poderá executá-lo com o comando `mix phx.server` do seu terminal.
 
 ## Screenshots
-![Projeto React.JS - Login](https://github.com/AlarmedEwe/nlw-heat/screenshots/Web-1.png)
-![Projeto React.JS - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/screenshots/Web-2.png)
+![Projeto React.JS - Login](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Web-1.png)
+![Projeto React.JS - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Web-2.png)
 
-![Projeto React Native - Splash Screen](https://github.com/AlarmedEwe/nlw-heat/screenshots/Mobile-1.png)
-![Projeto React Native - Login](https://github.com/AlarmedEwe/nlw-heat/screenshots/Mobile-2.png)
-![Projeto React Native - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/screenshots/Mobile-3.png)
+![Projeto React Native - Splash Screen](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-1.png)
+![Projeto React Native - Login](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-2.png)
+![Projeto React Native - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-3.png)
