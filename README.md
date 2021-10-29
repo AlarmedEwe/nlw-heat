@@ -46,6 +46,8 @@ Com essas ferramentas, você precisará instalar as dependências do projeto atr
 ![Projeto React.JS - Login](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Web-1.png)
 ![Projeto React.JS - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Web-2.png)
 
-![Projeto React Native - Splash Screen](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-1.png)
-![Projeto React Native - Login](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-2.png)
-![Projeto React Native - Envio de mensagens](https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-3.png)
+<div style="display: flex; justify-content: space-between">
+  <img alt="Projeto React Native - Splash Screen" src="https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-1.png" width="33%" style="width: 33%" />
+  <img alt="Projeto React Native - Login" src="https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-2.png" width="33%" style="width: 33%" />
+  <img alt="Projeto React Native - Envio de mensagens" src="https://github.com/AlarmedEwe/nlw-heat/blob/master/screenshots/Mobile-3.png" width="33%" style="width: 33%" />
+</div>
